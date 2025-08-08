@@ -99,4 +99,17 @@ The dashboard is divided into multiple interactive pages:
 
 ---
 
-## 📁 Folder Structure
+## About Me
+
+**Divya Chauhan**  
+Aspiring Data Analyst | Excel, SQL, Tableau ,Power Bi , Python ,Data Analysis 
+
+---
+
+## Project Status
+
+Still Running  
+Dashboards available  
+Suitable for portfolio and interview discussion
+
+---
