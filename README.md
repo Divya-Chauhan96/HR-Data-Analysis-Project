@@ -75,23 +75,6 @@ The dashboard is divided into multiple interactive pages:
 
 ---
 
-## 📷 Dashboard Previews
-> These are key visualizations from the interactive Tableau dashboard.
-
-### Attrition vs Career Progression
-![Attrition Rate Years Wise]([Attrition%20Rate%20Years%20Wise.png](https://github.com/Divya-Chauhan96/HR-Data-Analysis-Project/blob/master/HR%20Tableau%20Dashboard%20Images/Attrition%20Rate%20Years%20Wise.png))
-
-### Monthly Income vs Attrition & Work-Life Balance
-![Monthly Income vs Attrition Rate](Monthly%20INcome%20vs%20Attrition%20Rate.png)
-
-### Workforce Overview
-![Overview Dashboard](Overview.png)
-
-### Work-Life Balance vs Job Satisfaction
-![Work Life Balance vs Job Satisfaction](Work%20Life%20Balance%20vs%20Job%20Satisfaction%20vs%20Attrition%20Rate.png)
-
----
-
 ## 🔗 How to View the Full Dashboard
 1. Download the file **`HR_Analytics_Dashboard.twbx`** from this repository.
 2. Open it using **Tableau Public** or **Tableau Desktop**.
